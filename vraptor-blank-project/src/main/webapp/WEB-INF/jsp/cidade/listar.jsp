@@ -15,13 +15,13 @@
 <tr>
 	<td>Código</td>
 	<td>Nome</td>
+	<td>uf</td>
 </tr>
 <c:forEach var="c" items="${cidades}">
 <tr>
 	<td>${c.codigo}</td>
-	<td>
-		${c.nome}
-	</td>
+	<td>${c.nome}</td>
+	<td>${c.uf}</td>
 </tr>
 </c:forEach>
 </table>

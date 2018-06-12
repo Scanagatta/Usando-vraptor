@@ -25,7 +25,7 @@
 &emsp;
 &emsp;
 &emsp;
-<a href="../menu/menujogo"> <input type="button" value="Menu"></input> </a>
+<a href="../index/index"> <input type="button" value="Menu"></input> </a>
 
 </form>
 

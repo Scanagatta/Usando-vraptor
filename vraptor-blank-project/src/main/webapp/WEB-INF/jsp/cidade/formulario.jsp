@@ -13,6 +13,7 @@
 <form action="cadastrar" method="post">
 <br/>Código: <input type="text" name="cidade.codigo" />
 <br/>Nome:   <input type="text" name="cidade.nome"/>
+<br/>uf:   <input type="text" name="cidade.uf"/>
 <br/>
 <br/><input type="submit" value="Salvar" />
 </form>

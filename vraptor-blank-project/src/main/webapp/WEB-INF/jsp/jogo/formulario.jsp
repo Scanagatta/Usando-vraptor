@@ -65,7 +65,7 @@ Código: <input type="text" name="jogo.codigo" value="${jogo.codigo}"/>
 &emsp;
 &emsp;
 &emsp;
-<a href="../menu/menujogo">
+<a href="../index/index">
 <input type="button" value="Menu"></input>
 </a>
 </form>
